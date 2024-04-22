@@ -15,7 +15,8 @@ Prerequisites
 cd name-of-the-repository
 python3 -m venv venv
 source venv/bin/activate
-pip install requests```
+pip install requests
+```    
 
 ### Windows:
 
@@ -23,7 +24,8 @@ pip install requests```
 cd name-of-the-repository
 python -m venv venv
 .\venv\Scripts\activate
-pip install requests```
+pip install requests
+```
 
 ## Using Scrabble Helper
 
